@@ -149,6 +149,7 @@ compare_variance <- function(table_a, name_a, table_b, name_b){
   
   print(paste0("The final plot is also saved in ", filename))
   
+  return(a)
   
 }
 
