@@ -2,6 +2,7 @@
 library(reshape2)
 library(dplyr)
 library(stringr)
+library(ggplot2)
 source("~/capsule/code/microarray_transformation_evaluation/variance_functions.R")
 
 # calculate variance in Microarray / RNAseq datasets in CRC models built with CRB/CRS

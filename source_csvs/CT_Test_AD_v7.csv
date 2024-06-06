@@ -1,0 +1,375 @@
+Cell Typeold,Effect ID,Platform,Experiment ID,Term,platform_id,comparison_id,Estimate Up Down,stage,Group Size,Disease Name,fdr,significant
+contractile pericyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.650549451,FALSE
+melanocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.440659341,FALSE
+prickle cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.557207498,FALSE
+keratinocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.970172684,FALSE
+granular cell of epidermis,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.988344988,FALSE
+basal cell of epidermis,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.943364328,FALSE
+plasma cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.650549451,FALSE
+B cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.650549451,FALSE
+migratory conventional dendritic cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.063736264,TRUE
+conventional dendritic cell 2,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.063736264,TRUE
+dendritic cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.453296703,FALSE
+Langerhans cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.970172684,FALSE
+mast cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.531135531,FALSE
+granulocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.531135531,FALSE
+innate lymphoid cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.557207498,FALSE
+natural killer cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.50887574,FALSE
+macrophage,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.043956044,TRUE
+monocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.878681319,FALSE
+regulatory T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.063736264,TRUE
+CD4+ T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.063736264,TRUE
+CD4+ memory T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.397174254,FALSE
+effector memory CD8+ T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.715855573,FALSE
+resident memory CD8+ T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.813644689,FALSE
+CD8+ T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.813644689,FALSE
+lymphatic endothelial cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.152014652,FALSE
+endothelial cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.440659341,FALSE
+capillary endothelial cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,1,FALSE
+vein endothelial cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.988344988,FALSE
+artery endothelial cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.988344988,FALSE
+structural skin fibroblast,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.440659341,FALSE
+fibroblast,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.453296703,FALSE
+inflammatory skin fibroblast,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.988344988,FALSE
+pericyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.781718282,FALSE
+noncontractile pericyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v1,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.988344988,FALSE
+contractile pericyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.003082444,TRUE
+melanocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.000883327,TRUE
+prickle cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.005684374,TRUE
+basal cell of epidermis,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.321614312,FALSE
+granular cell of epidermis,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.11313383,FALSE
+keratinocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.445454545,FALSE
+plasma cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.336532941,FALSE
+B cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.336532941,FALSE
+migratory conventional dendritic cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.189570298,FALSE
+Langerhans cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.321614312,FALSE
+conventional dendritic cell 2,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.030364372,TRUE
+dendritic cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.444117286,FALSE
+mast cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.198564593,FALSE
+granulocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.198564593,FALSE
+natural killer cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.127320048,FALSE
+innate lymphoid cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,1,FALSE
+macrophage,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.00085879,TRUE
+monocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.649635851,FALSE
+CD4+ T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.00085879,TRUE
+regulatory T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.003082444,TRUE
+CD4+ memory T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.256145517,FALSE
+effector memory CD8+ T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.411922086,FALSE
+resident memory CD8+ T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.445454545,FALSE
+CD8+ T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.445454545,FALSE
+lymphatic endothelial cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.035533844,TRUE
+artery endothelial cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.321614312,FALSE
+endothelial cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.478053356,FALSE
+vein endothelial cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.511329131,FALSE
+capillary endothelial cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.321614312,FALSE
+structural skin fibroblast,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.00085879,TRUE
+fibroblast,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.000883327,TRUE
+inflammatory skin fibroblast,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.003082444,TRUE
+pericyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.04162066,TRUE
+noncontractile pericyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v1,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.189570298,FALSE
+contractile pericyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.498245578,FALSE
+granular cell of epidermis,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.156841421,FALSE
+keratinocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.410599576,FALSE
+prickle cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.906376394,FALSE
+basal cell of epidermis,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.061220862,TRUE
+melanocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.479105117,FALSE
+plasma cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.736290715,FALSE
+B cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.736290715,FALSE
+Langerhans cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.028065742,TRUE
+migratory conventional dendritic cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.000849746,TRUE
+dendritic cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.268249454,FALSE
+conventional dendritic cell 2,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.745132539,FALSE
+mast cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.028065742,TRUE
+granulocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.028065742,TRUE
+innate lymphoid cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.823136694,FALSE
+natural killer cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.111899982,FALSE
+macrophage,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.028065742,TRUE
+monocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.979594644,FALSE
+regulatory T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.032985801,TRUE
+CD4+ T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.044574229,TRUE
+CD4+ memory T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.220190218,FALSE
+effector memory CD8+ T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.374112852,FALSE
+CD8+ T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.488492225,FALSE
+resident memory CD8+ T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.865363758,FALSE
+lymphatic endothelial cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.539419269,FALSE
+vein endothelial cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.614487167,FALSE
+capillary endothelial cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.000666083,TRUE
+endothelial cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.061220862,TRUE
+artery endothelial cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,1,FALSE
+structural skin fibroblast,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.014457919,TRUE
+fibroblast,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.066046573,TRUE
+inflammatory skin fibroblast,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.086661804,TRUE
+noncontractile pericyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.063450934,TRUE
+pericyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v1,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.213599156,FALSE
+contractile pericyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.652404643,FALSE
+melanocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.006305265,TRUE
+basal cell of epidermis,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.006305265,TRUE
+keratinocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.26776953,FALSE
+prickle cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.360461691,FALSE
+granular cell of epidermis,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.956230616,FALSE
+plasma cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.227894547,FALSE
+B cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.227894547,FALSE
+Langerhans cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.052586786,TRUE
+migratory conventional dendritic cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.227894547,FALSE
+conventional dendritic cell 2,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.052586786,TRUE
+dendritic cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.89264209,FALSE
+mast cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.758255384,FALSE
+granulocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.758255384,FALSE
+natural killer cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.388796345,FALSE
+innate lymphoid cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.227894547,FALSE
+macrophage,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.065819679,TRUE
+monocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.956604622,FALSE
+effector memory CD8+ T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.035974174,TRUE
+CD4+ memory T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.052586786,TRUE
+regulatory T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.006305265,TRUE
+resident memory CD8+ T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.058738617,TRUE
+CD8+ T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.311982048,FALSE
+CD4+ T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.765867804,FALSE
+lymphatic endothelial cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.227894547,FALSE
+endothelial cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.052586786,TRUE
+capillary endothelial cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.052586786,TRUE
+vein endothelial cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.529129903,FALSE
+artery endothelial cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.75191572,FALSE
+structural skin fibroblast,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.894317816,FALSE
+inflammatory skin fibroblast,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.108636018,FALSE
+fibroblast,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.469386277,FALSE
+pericyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.761933752,FALSE
+noncontractile pericyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v1,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.957045453,FALSE
+contractile pericyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.239116309,FALSE
+prickle cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.010972887,TRUE
+basal cell of epidermis,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.036080099,TRUE
+melanocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.095537834,TRUE
+keratinocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.778756714,FALSE
+granular cell of epidermis,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.289923155,FALSE
+plasma cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.06804891,TRUE
+B cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.06804891,TRUE
+Langerhans cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.043567251,TRUE
+migratory conventional dendritic cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.239116309,FALSE
+conventional dendritic cell 2,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.003189793,TRUE
+dendritic cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.92177698,FALSE
+mast cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.374434403,FALSE
+granulocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.374434403,FALSE
+innate lymphoid cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.865808967,FALSE
+natural killer cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,1,FALSE
+macrophage,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.003189793,TRUE
+monocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.894314966,FALSE
+regulatory T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.003189793,TRUE
+CD4+ T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.007230197,TRUE
+resident memory CD8+ T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.043567251,TRUE
+CD8+ T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.06804891,TRUE
+CD4+ memory T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.06804891,TRUE
+effector memory CD8+ T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.44325207,FALSE
+lymphatic endothelial cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.337506645,FALSE
+vein endothelial cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.26764892,FALSE
+capillary endothelial cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.337506645,FALSE
+artery endothelial cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.362700691,FALSE
+endothelial cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,1,FALSE
+fibroblast,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.201913876,FALSE
+structural skin fibroblast,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.2595372,FALSE
+inflammatory skin fibroblast,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.26764892,FALSE
+noncontractile pericyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.076309655,TRUE
+pericyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v1,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.095537834,TRUE
+contractile pericyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.004630075,TRUE
+melanocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.004237382,TRUE
+prickle cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.222378133,FALSE
+basal cell of epidermis,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.005453027,TRUE
+keratinocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.017734764,TRUE
+granular cell of epidermis,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.11389858,FALSE
+plasma cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.233743445,FALSE
+B cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.233743445,FALSE
+Langerhans cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.17068344,FALSE
+conventional dendritic cell 2,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.202049719,FALSE
+dendritic cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.206660426,FALSE
+migratory conventional dendritic cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.236980058,FALSE
+mast cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.000133263,TRUE
+granulocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.000133263,TRUE
+innate lymphoid cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.687638538,FALSE
+natural killer cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.004859161,TRUE
+macrophage,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.000133263,TRUE
+monocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.58550968,FALSE
+effector memory CD8+ T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.189744997,FALSE
+CD8+ T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.367710663,FALSE
+regulatory T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.000984628,TRUE
+CD4+ T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.001516987,TRUE
+CD4+ memory T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.047548979,TRUE
+resident memory CD8+ T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.217158315,FALSE
+lymphatic endothelial cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.000133263,TRUE
+endothelial cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.068407909,TRUE
+artery endothelial cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.264220022,FALSE
+capillary endothelial cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.109667368,FALSE
+vein endothelial cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.233659729,FALSE
+structural skin fibroblast,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,4.18E-06,TRUE
+fibroblast,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,2.22E-05,TRUE
+inflammatory skin fibroblast,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.626391809,FALSE
+pericyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.005453027,TRUE
+noncontractile pericyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v1,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.157722625,FALSE
+contractile pericyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.017006059,TRUE
+melanocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.179095451,FALSE
+prickle cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.309817564,FALSE
+keratinocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.399468523,FALSE
+basal cell of epidermis,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.616644763,FALSE
+granular cell of epidermis,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.649806407,FALSE
+plasma cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.008092309,TRUE
+B cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.008092309,TRUE
+Langerhans cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.077599346,TRUE
+dendritic cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.077599346,TRUE
+migratory conventional dendritic cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.676870331,FALSE
+conventional dendritic cell 2,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.428357207,FALSE
+mast cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.309817564,FALSE
+granulocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.309817564,FALSE
+natural killer cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.008092309,TRUE
+innate lymphoid cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.607428265,FALSE
+macrophage,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,3.13E-07,TRUE
+monocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.486906071,FALSE
+resident memory CD8+ T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.369828763,FALSE
+CD8+ T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.369828763,FALSE
+effector memory CD8+ T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.589459405,FALSE
+CD4+ T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.000166018,TRUE
+regulatory T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.000475015,TRUE
+CD4+ memory T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.397238001,FALSE
+lymphatic endothelial cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.000714449,TRUE
+capillary endothelial cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,2.98E-07,TRUE
+endothelial cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.431325746,FALSE
+vein endothelial cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.486906071,FALSE
+artery endothelial cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.607428265,FALSE
+structural skin fibroblast,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.000714449,TRUE
+fibroblast,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.000714449,TRUE
+inflammatory skin fibroblast,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.000166018,TRUE
+pericyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.877112646,FALSE
+noncontractile pericyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v1,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.877112646,FALSE
+contractile pericyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,5.01E-06,TRUE
+melanocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.000287146,TRUE
+granular cell of epidermis,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.919107267,FALSE
+basal cell of epidermis,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.001844768,TRUE
+keratinocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.123137168,FALSE
+prickle cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.699992313,FALSE
+plasma cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.075545745,TRUE
+B cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.075545745,TRUE
+conventional dendritic cell 2,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,1.34E-08,TRUE
+dendritic cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,1.78E-07,TRUE
+migratory conventional dendritic cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.621263357,FALSE
+Langerhans cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.807382721,FALSE
+mast cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,2.59E-05,TRUE
+granulocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,2.59E-05,TRUE
+natural killer cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.001695685,TRUE
+innate lymphoid cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.140522638,FALSE
+macrophage,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,8.25E-06,TRUE
+monocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.807382721,FALSE
+CD4+ T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,1.80E-09,TRUE
+CD4+ memory T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,1.80E-09,TRUE
+regulatory T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,5.76E-08,TRUE
+CD8+ T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,5.57E-07,TRUE
+resident memory CD8+ T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,3.63E-06,TRUE
+effector memory CD8+ T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,7.72E-06,TRUE
+endothelial cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,2.61E-05,TRUE
+capillary endothelial cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.000367209,TRUE
+lymphatic endothelial cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.00750164,TRUE
+vein endothelial cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.518978089,FALSE
+artery endothelial cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.699992313,FALSE
+structural skin fibroblast,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,1.40E-08,TRUE
+fibroblast,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,1.36E-06,TRUE
+inflammatory skin fibroblast,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,5.57E-07,TRUE
+pericyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,9.53E-06,TRUE
+noncontractile pericyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v1,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.002348779,TRUE
+contractile pericyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.625887076,FALSE
+prickle cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.217034248,FALSE
+melanocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.217034248,FALSE
+keratinocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.590803136,FALSE
+basal cell of epidermis,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.875714966,FALSE
+granular cell of epidermis,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.625887076,FALSE
+plasma cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.159388759,FALSE
+B cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.159388759,FALSE
+migratory conventional dendritic cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.125485625,FALSE
+Langerhans cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.125485625,FALSE
+dendritic cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.222902098,FALSE
+conventional dendritic cell 2,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.321056721,FALSE
+mast cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.696681097,FALSE
+granulocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.696681097,FALSE
+natural killer cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.217034248,FALSE
+innate lymphoid cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.368091168,FALSE
+macrophage,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.1003885,FALSE
+monocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.696681097,FALSE
+CD4+ memory T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.473675214,FALSE
+resident memory CD8+ T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.217034248,FALSE
+effector memory CD8+ T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.217034248,FALSE
+CD8+ T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.217034248,FALSE
+regulatory T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.419629493,FALSE
+CD4+ T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.590803136,FALSE
+capillary endothelial cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.905097596,FALSE
+lymphatic endothelial cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.687291375,FALSE
+artery endothelial cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.756648715,FALSE
+endothelial cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.905097596,FALSE
+vein endothelial cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.959129759,FALSE
+inflammatory skin fibroblast,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.875714966,FALSE
+structural skin fibroblast,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.222902098,FALSE
+fibroblast,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.222902098,FALSE
+noncontractile pericyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.125485625,FALSE
+pericyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v1,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.184171384,FALSE
+contractile pericyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.432073236,FALSE
+melanocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.724675653,FALSE
+prickle cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.881991689,FALSE
+basal cell of epidermis,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,1,FALSE
+granular cell of epidermis,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.432073236,FALSE
+keratinocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.572786409,FALSE
+plasma cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.908117272,FALSE
+B cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.908117272,FALSE
+Langerhans cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.841828414,FALSE
+dendritic cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,1,FALSE
+migratory conventional dendritic cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.724675653,FALSE
+conventional dendritic cell 2,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.926626655,FALSE
+mast cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.724675653,FALSE
+granulocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.724675653,FALSE
+natural killer cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.881991689,FALSE
+innate lymphoid cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.944408656,FALSE
+macrophage,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.572786409,FALSE
+monocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.486430045,FALSE
+CD4+ memory T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.432073236,FALSE
+effector memory CD8+ T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.572786409,FALSE
+CD8+ T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.572786409,FALSE
+CD4+ T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.572786409,FALSE
+resident memory CD8+ T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.745378759,FALSE
+regulatory T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.841828414,FALSE
+vein endothelial cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.572786409,FALSE
+lymphatic endothelial cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.572786409,FALSE
+capillary endothelial cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.432073236,FALSE
+artery endothelial cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.645867542,FALSE
+endothelial cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.901581064,FALSE
+structural skin fibroblast,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.432073236,FALSE
+fibroblast,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.432073236,FALSE
+inflammatory skin fibroblast,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.908117272,FALSE
+pericyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.432073236,FALSE
+noncontractile pericyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v1,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.572786409,FALSE
+contractile pericyte,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.014127805,TRUE
+melanocyte,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.000192513,TRUE
+prickle cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.972788578,FALSE
+basal cell of epidermis,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.972788578,FALSE
+granular cell of epidermis,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.33486794,FALSE
+keratinocyte,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.684148843,FALSE
+plasma cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.008016262,TRUE
+B cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.008016262,TRUE
+Langerhans cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.043268373,TRUE
+migratory conventional dendritic cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.972788578,FALSE
+conventional dendritic cell 2,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.011716492,TRUE
+dendritic cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.075761555,TRUE
+mast cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.003645488,TRUE
+granulocyte,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.003645488,TRUE
+natural killer cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.362021712,FALSE
+innate lymphoid cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.972788578,FALSE
+macrophage,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,4.47E-23,TRUE
+monocyte,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.972788578,FALSE
+regulatory T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,2.47E-19,TRUE
+CD4+ T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,3.72E-07,TRUE
+CD4+ memory T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.092618681,TRUE
+resident memory CD8+ T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.144173478,FALSE
+CD8+ T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.279186612,FALSE
+effector memory CD8+ T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.88561876,FALSE
+lymphatic endothelial cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,1.34E-10,TRUE
+artery endothelial cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.972788578,FALSE
+endothelial cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.994539742,FALSE
+capillary endothelial cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.047480491,TRUE
+vein endothelial cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.681253991,FALSE
+structural skin fibroblast,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.001013573,TRUE
+fibroblast,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.001829143,TRUE
+inflammatory skin fibroblast,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.014127805,TRUE
+pericyte,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.1424726,FALSE
+noncontractile pericyte,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.999643235,FALSE
