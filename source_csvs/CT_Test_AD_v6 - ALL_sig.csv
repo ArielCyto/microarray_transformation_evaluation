@@ -1,0 +1,232 @@
+Cell Typeold,Effect ID,Platform,Experiment ID,Term,platform_id,comparison_id,Estimate Up Down,stage,Group Size,Disease Name,fdr,significant
+melanocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.502262443,TRUE
+keratinocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.624833644,TRUE
+mature B cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.634793999,TRUE
+plasma cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,1,TRUE
+myeloid dendritic cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.112669683,TRUE
+dendritic cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.167138009,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.634793999,TRUE
+neutrophil,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.410067873,TRUE
+natural killer cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.417905624,TRUE
+macrophage,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.095022624,TRUE
+alternatively activated macrophage,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.095022624,TRUE
+monocyte,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.167138009,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.167138009,TRUE
+regulatory T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.373303167,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.408597285,TRUE
+mature NK T cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.417905624,TRUE
+T-helper 17 cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Up,datasets,12 | 5,atopic,0.502262443,TRUE
+endothelial cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.838914027,TRUE
+fibroblast,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.410067873,TRUE
+smooth muscle cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.112669683,TRUE
+fat cell,AD,microarray,GSE5667,DZ_vs_HC,skin_v12,AD__GSE5667__GPL96__AD_vs_HC,Down,datasets,12 | 5,atopic,0.095022624,TRUE
+melanocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.010911689,TRUE
+keratinocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.000227327,TRUE
+plasma cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.45855615,TRUE
+mature B cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.285550943,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.776332568,TRUE
+dendritic cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.000719868,TRUE
+myeloid dendritic cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.010201293,TRUE
+neutrophil,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.198701156,TRUE
+natural killer cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.795936262,TRUE
+alternatively activated macrophage,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.000454654,TRUE
+macrophage,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.000719868,TRUE
+monocyte,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.000719868,TRUE
+mature NK T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.756232687,TRUE
+regulatory T cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.006267726,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.010911689,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.285550943,TRUE
+T-helper 17 cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Up,datasets,10 | 10,atopic,0.345710654,TRUE
+endothelial cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.248240923,TRUE
+fibroblast,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.021947374,TRUE
+smooth muscle cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.000719868,TRUE
+fat cell,AD,microarray,GSE6012,DZ_vs_HC,skin_v12,AD__GSE6012__GPL96__AD_vs_HC,Down,datasets,10 | 10,atopic,0.198701156,TRUE
+keratinocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.630432631,TRUE
+melanocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.762611937,TRUE
+mature B cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.311970422,TRUE
+plasma cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.320398734,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.630432631,TRUE
+dendritic cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.461183723,TRUE
+myeloid dendritic cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.762611937,TRUE
+neutrophil,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.103985435,TRUE
+natural killer cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.762611937,TRUE
+macrophage,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.950783036,TRUE
+alternatively activated macrophage,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.532571803,TRUE
+monocyte,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.762611937,TRUE
+T-helper 17 cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.615479832,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.762611937,TRUE
+mature NK T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.013394837,TRUE
+regulatory T cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.309992455,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.554383101,TRUE
+endothelial cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Up,datasets,25 | 8,atopic,0.532571803,TRUE
+fibroblast,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.103985435,TRUE
+smooth muscle cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.000290403,TRUE
+fat cell,AD,microarray,GSE32924,DZ_vs_HC,skin_v12,AD__GSE32924__GPL570__AD_vs_HC,Down,datasets,25 | 8,atopic,0.657862732,TRUE
+melanocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.211186715,TRUE
+keratinocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.004575818,TRUE
+plasma cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.104701022,TRUE
+mature B cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.305100091,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.000537818,TRUE
+dendritic cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.025927435,TRUE
+myeloid dendritic cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.171446723,TRUE
+neutrophil,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.32127695,TRUE
+natural killer cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.357147005,TRUE
+macrophage,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.000537818,TRUE
+alternatively activated macrophage,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.305100091,TRUE
+monocyte,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.014949752,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.221905379,TRUE
+T-helper 17 cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.673482634,TRUE
+regulatory T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Down,datasets,19 | 14,atopic,0.810018805,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.376546858,TRUE
+mature NK T cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.928469192,TRUE
+endothelial cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.653457347,TRUE
+fibroblast,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.074531107,TRUE
+smooth muscle cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.338676816,TRUE
+fat cell,AD,microarray,GSE60709,DZ_vs_HC,skin_v12,AD__GSE60709__GPL6947__AD_vs_HC,Up,datasets,19 | 14,atopic,0.928469192,TRUE
+melanocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Down,datasets,14 | 8,atopic,0.562828283,TRUE
+keratinocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.002200019,TRUE
+plasma cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.177658461,TRUE
+mature B cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.578990759,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.002200019,TRUE
+dendritic cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.004840979,TRUE
+myeloid dendritic cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.016713575,TRUE
+neutrophil,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.056040279,TRUE
+natural killer cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.856175063,TRUE
+macrophage,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.002200019,TRUE
+alternatively activated macrophage,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.003572568,TRUE
+monocyte,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.002200019,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.004115458,TRUE
+T-helper 17 cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.095762011,TRUE
+regulatory T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.142968384,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.189886481,TRUE
+mature NK T cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.867554805,TRUE
+endothelial cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.088512994,TRUE
+fibroblast,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.844364782,TRUE
+smooth muscle cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.774939279,TRUE
+fat cell,AD,microarray,GSE75890,DZ_vs_HC,skin_v12,AD__GSE75890__GPL17692__AD_vs_HC,Up,datasets,14 | 8,atopic,0.595623693,TRUE
+keratinocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.000888753,TRUE
+melanocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.840674409,TRUE
+plasma cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.703649379,TRUE
+mature B cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.336865554,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.009793164,TRUE
+dendritic cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,2.92E-05,TRUE
+myeloid dendritic cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.336865554,TRUE
+neutrophil,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,2.92E-05,TRUE
+natural killer cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.703649379,TRUE
+macrophage,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.787311088,TRUE
+alternatively activated macrophage,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.787311088,TRUE
+monocyte,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.350918102,TRUE
+mature NK T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.00059384,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.126628421,TRUE
+T-helper 17 cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.647443598,TRUE
+regulatory T cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.647443598,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Up,datasets,79 | 29,atopic,0.703649379,TRUE
+endothelial cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.000729217,TRUE
+fibroblast,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.007719303,TRUE
+smooth muscle cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.000102543,TRUE
+fat cell,AD,microarray,GSE107361,DZ_vs_HC,skin_v12,AD__GSE107361__GPL570__AD_vs_HC,Down,datasets,79 | 29,atopic,0.000102543,TRUE
+melanocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.754109097,TRUE
+keratinocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,7.39E-07,TRUE
+mature B cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.555744125,TRUE
+plasma cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.002618706,TRUE
+dendritic cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,1.68E-07,TRUE
+myeloid dendritic cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,9.92E-06,TRUE
+plasmacytoid dendritic cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.000439404,TRUE
+neutrophil,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,6.12E-05,TRUE
+natural killer cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.555744125,TRUE
+alternatively activated macrophage,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,2.79E-07,TRUE
+macrophage,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.000886679,TRUE
+monocyte,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,1.91E-06,TRUE
+regulatory T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,8.38E-06,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,8.83E-06,TRUE
+T-helper 17 cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.000331284,TRUE
+"CD8-positive, alpha-beta T cell",AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.010925502,TRUE
+mature NK T cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.177210159,TRUE
+endothelial cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Up,datasets,54 | 38,atopic,0.616349595,TRUE
+fibroblast,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.022063865,TRUE
+smooth muscle cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,6.26E-05,TRUE
+fat cell,AD,rnaseq,GSE121212,DZ_vs_HC,skin_v12,AD__GSE121212__GPL16791__AD_vs_HC,Down,datasets,54 | 38,atopic,0.009678131,TRUE
+keratinocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,2.24E-05,TRUE
+melanocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.04634773,TRUE
+plasma cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.000721826,TRUE
+mature B cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,4.96E-08,TRUE
+dendritic cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,1.63E-07,TRUE
+myeloid dendritic cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,4.20E-05,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.001745472,TRUE
+neutrophil,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.000721826,TRUE
+natural killer cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.079459918,TRUE
+macrophage,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.002339442,TRUE
+alternatively activated macrophage,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.004303636,TRUE
+monocyte,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.032460411,TRUE
+T-helper 17 cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,1.88E-08,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,8.19E-06,TRUE
+regulatory T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,4.43E-05,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.739218032,TRUE
+mature NK T cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Up,datasets,93 | 20,atopic,0.824373258,TRUE
+endothelial cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,2.24E-05,TRUE
+fibroblast,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,1.53E-05,TRUE
+smooth muscle cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,0.522227497,TRUE
+fat cell,AD,microarray,GSE130588,DZ_vs_HC,skin_v12,AD__GSE130588__GPL570__AD_vs_HC,Down,datasets,93 | 20,atopic,8.54E-05,TRUE
+melanocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.306463234,TRUE
+keratinocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.306463234,TRUE
+plasma cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.306463234,TRUE
+mature B cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.351748252,TRUE
+myeloid dendritic cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.086806527,TRUE
+dendritic cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.174592075,TRUE
+plasmacytoid dendritic cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.306463234,TRUE
+neutrophil,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.086806527,TRUE
+natural killer cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.306463234,TRUE
+macrophage,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.086806527,TRUE
+alternatively activated macrophage,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.086806527,TRUE
+monocyte,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.086806527,TRUE
+regulatory T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.314792899,TRUE
+"CD8-positive, alpha-beta T cell",AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.314792899,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.365705128,TRUE
+T-helper 17 cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.58958819,TRUE
+mature NK T cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.634130781,TRUE
+endothelial cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Down,datasets,8 | 8,atopic,0.405429864,TRUE
+fibroblast,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.365705128,TRUE
+smooth muscle cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.677645688,TRUE
+fat cell,AD,rnaseq,GSE147424,DZ_vs_HC,skin_v12,AD__GSE147424__GPL16791__AD_vs_HC,Up,datasets,8 | 8,atopic,0.720901321,TRUE
+melanocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+keratinocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+mature B cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.977693571,TRUE
+plasma cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.977693571,TRUE
+plasmacytoid dendritic cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+myeloid dendritic cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+dendritic cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+neutrophil,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+natural killer cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.977693571,TRUE
+macrophage,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+alternatively activated macrophage,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+monocyte,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.887356322,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.977693571,TRUE
+T-helper 17 cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+regulatory T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.887356322,TRUE
+mature NK T cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.977693571,TRUE
+"CD8-positive, alpha-beta T cell",AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Up,datasets,24 | 5,atopic,0.977693571,TRUE
+endothelial cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.887356322,TRUE
+fibroblast,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.887356322,TRUE
+smooth muscle cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.887356322,TRUE
+fat cell,AD,microarray,GSE153007,DZ_vs_HC,skin_v12,AD__GSE153007__GPL6480__AD_vs_HC,Down,datasets,24 | 5,atopic,0.887356322,TRUE
+melanocyte,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.508554008,TRUE
+keratinocyte,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,4.04E-05,TRUE
+plasma cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.83017696,TRUE
+mature B cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.354165722,TRUE
+dendritic cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,1.51E-15,TRUE
+myeloid dendritic cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,9.27E-06,TRUE
+plasmacytoid dendritic cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.063220157,TRUE
+neutrophil,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,4.99E-11,TRUE
+natural killer cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.038105064,TRUE
+alternatively activated macrophage,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,4.04E-05,TRUE
+macrophage,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.000257236,TRUE
+monocyte,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,9.70E-05,TRUE
+"effector memory CD4-positive, alpha-beta T cell",AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,8.20E-09,TRUE
+regulatory T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,7.57E-05,TRUE
+T-helper 17 cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.022585948,TRUE
+mature NK T cell,AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.033786149,TRUE
+"CD8-positive, alpha-beta T cell",AD,,meta,DZ_vs_HC,,,Up,meta,|,atopic,0.061794053,TRUE
+endothelial cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.501079359,TRUE
+fibroblast,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.038105064,TRUE
+smooth muscle cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.007535972,TRUE
+fat cell,AD,,meta,DZ_vs_HC,,,Down,meta,|,atopic,0.000956191,TRUE

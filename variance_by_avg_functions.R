@@ -1,4 +1,7 @@
-# function for calc data table and to create the column of "significant" (<=0.1)
+### Functions to calculate variance by average of significant results and their direction (the 'new' format) ###
+
+
+# function for calc data table and based on the "significant" column (all "TRUE" vals are included)
 generate_variance_table_by_avg <- function(cttest_data_table, platform_type) {
   data_table <- cttest_data_table[cttest_data_table$Platform == platform_type,]
   cell_list <- unique(data_table$Cell.Typeold)

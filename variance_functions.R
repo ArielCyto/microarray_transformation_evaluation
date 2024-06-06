@@ -1,6 +1,6 @@
-### Functions ###
+### Functions to calculate variance by fraction of significant results and their direction (the 'old' format) ###
 
-# function for calc data table and to create the column of "significant" (<=0.1)
+# function for calc data table and based on the "significant" column (all "TRUE" vals are included)
 generate_variance_table <- function(cttest_data_table, platform_type) {
   data_table <- cttest_data_table[cttest_data_table$Platform == platform_type,]
   cell_list <- unique(data_table$Cell.Typeold)
@@ -65,22 +65,6 @@ calc_score_cells_two_tables <- function(table_a, table_b){
   return(comparison_table)
 }
 
-
-# A function to split long string in the middle
-# split_string <- function(long_string) {
-#   middle_index <- ceiling(nchar(long_string) / 2) # Find the middle index of the string
-#   space_index <- regexpr(" ", substr(long_string, middle_index, nchar(long_string))) # Find the index of the first space after the middle index
-#   # If a space is found after the middle index, split the string
-#   if (space_index > 0) {
-#     split_index <- middle_index + space_index - 1
-#     split_string <- paste0(substr(long_string, 1, split_index), "\n", substr(long_string, split_index + 1, nchar(long_string)))
-#   } else {
-#     # If no space is found after the middle index, return the original string
-#     split_string <- long_string
-#   }
-#   return(split_string)
-# }
-
 # A function to split long string into x lines
 split_string <- function(long_string, x=2) {
   split_string <- long_string
@@ -110,11 +94,10 @@ split_list <- function(lst, x) {
 # A function that compare the variance between 2 model tables:
 # arguments: 2 data tables, name per table
 compare_variance <- function(table_a, name_a, table_b, name_b){
-  comparison_table_microarray <- calc_score_cells_two_tables(table_a, table_b)
-  
+  comparison_table <- calc_score_cells_two_tables(table_a, table_b)
   # prepare data to plot the scores per cell 
   a <- melt(
-    comparison_table_microarray %>% select(Cell_name, direction_a_score, direction_b_score), 
+    comparison_table %>% select(Cell_name, direction_a_score, direction_b_score), 
     id.vars =  "Cell_name",
     variable.name = "model.version")
   a$model.version <- str_replace(a$model.version, "direction_a_score", name_a)
