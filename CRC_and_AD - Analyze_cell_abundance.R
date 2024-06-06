@@ -4,7 +4,7 @@ install.packages('cytoreason.ccm.pipeline', repos = c(CRRAN = "https://crran.cyt
 library("cytoreason.ccm.pipeline")
 library(ggplot2)
 library(reshape2) ## for melt()
-source("~/capsule/code/microarray_transformation_evaluation/estimation_functions.R")
+source("~/capsule/code/microarray_transformation_evaluation/Analysis_Functions/estimation_functions.R")
 
 ### ~~ CRC ~~ ###
 # check low abundance cells in CRC, V34

@@ -2,8 +2,8 @@ library(reshape2)
 library(dplyr)
 library(stringr)
 library(ggplot2)
-source("~/capsule/code/microarray_transformation_evaluation/variance_functions.R")
-source("~/capsule/code/microarray_transformation_evaluation/variance_by_avg_functions.R")
+source("~/capsule/code/microarray_transformation_evaluation/Analysis_Functions/variance_functions.R")
+source("~/capsule/code/microarray_transformation_evaluation/Analysis_Functions/variance_by_avg_functions.R")
 
 # COMPARING WITHIN CRB VERSION - rnaseq vs microarray
 # read the data into 2 files - one for platform microarray and one for rnaseq platform

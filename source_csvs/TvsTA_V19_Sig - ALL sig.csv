@@ -1,0 +1,657 @@
+﻿Cell Typeold,Effect ID,Platform,Experiment ID,Term,platform_id,comparison_id,Estimate Up Down,stage,Group Size,Disease Name,fdr,significant
+plasma cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+pDC_LILRA4,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+memory B cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+mature B cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+Macro_LYVE1,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+epithelial cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+class switched memory B cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+cDC3_LAMP3,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+Tk,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.003079928,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.003079928,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.004003906,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.006256104,TRUE
+mast cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.008243336,TRUE
+Macro_IL1B,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.011121962,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.014751234,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.025024414,TRUE
+regulatory T cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.031459263,TRUE
+fat cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.060929008,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.060929008,TRUE
+macrophage,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.072570801,TRUE
+Macro_NLRP3,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.082388071,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.117151331,TRUE
+T-helper 17 cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.189470564,TRUE
+endothelial cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.421623461,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.445577567,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.445577567,TRUE
+Macro_ISG15,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.630885769,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Down,datasets,12 | 12,io_colorectal_cancer,0.956317608,TRUE
+Macro_INHBA,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.002001953,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.003079928,TRUE
+fibroblast,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.004003906,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.082388071,TRUE
+Tfh-Th1,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.249208648,TRUE
+Macro_SPP1,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.363688151,TRUE
+gamma-delta T cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.398453251,TRUE
+neutrophil,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.421623461,TRUE
+mesenchymal cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.630885769,TRUE
+Macro_C1QC,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.853464227,TRUE
+stromal cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.969726563,TRUE
+natural killer cell,tumor,microarray,GSE18105,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE18105__GPL570__tumor_vs_tumor_adjacent,Up,datasets,12 | 12,io_colorectal_cancer,0.969726563,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,4.27E-17,TRUE
+regulatory T cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,4.44E-14,TRUE
+Tk,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,1.07E-07,TRUE
+natural killer cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,2.21E-07,TRUE
+mast cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,2.24E-07,TRUE
+plasma cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,2.55E-07,TRUE
+cDC3_LAMP3,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,6.89E-06,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,2.09E-05,TRUE
+Macro_IL1B,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,2.55E-05,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,2.99E-05,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.000126915,TRUE
+Macro_LYVE1,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.000426722,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.001934556,TRUE
+class switched memory B cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.00216012,TRUE
+mature B cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.002340602,TRUE
+epithelial cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.002935528,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.004550053,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.008355664,TRUE
+memory B cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.010107676,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.035550166,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.131914742,TRUE
+gamma-delta T cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Down,datasets,45 | 44,io_colorectal_cancer,0.393560595,TRUE
+Macro_INHBA,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,3.16E-24,TRUE
+fibroblast,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,1.65E-21,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,1.14E-12,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,1.13E-10,TRUE
+Tfh-Th1,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,5.60E-10,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,3.76E-09,TRUE
+stromal cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,3.41E-07,TRUE
+neutrophil,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,3.91E-07,TRUE
+mesenchymal cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,6.40E-06,TRUE
+Macro_ISG15,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,6.40E-06,TRUE
+Macro_NLRP3,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,7.45E-06,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.004550053,TRUE
+Macro_C1QC,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.008735363,TRUE
+Macro_SPP1,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.035550166,TRUE
+pDC_LILRA4,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.141565356,TRUE
+T-helper 17 cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.154138831,TRUE
+fat cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.209718405,TRUE
+endothelial cell,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.324383468,TRUE
+macrophage,tumor,microarray,GSE20916,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE20916__GPL570__tumor_vs_tumor_adjacent,Up,datasets,45 | 44,io_colorectal_cancer,0.892836326,TRUE
+regulatory T cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,1.22E-06,TRUE
+Macro_LYVE1,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,1.22E-06,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,3.49E-06,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,3.49E-06,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,3.49E-06,TRUE
+plasma cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,4.89E-06,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,4.89E-06,TRUE
+fat cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,8.44E-06,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,1.75E-05,TRUE
+class switched memory B cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.000248289,TRUE
+Tk,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.000360818,TRUE
+Macro_IL1B,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.000399696,TRUE
+mature B cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.000804393,TRUE
+T-helper 17 cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.001734847,TRUE
+memory B cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.002608635,TRUE
+mast cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.002608635,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.004485737,TRUE
+macrophage,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.004616027,TRUE
+Macro_SPP1,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.013233578,TRUE
+endothelial cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.019481055,TRUE
+cDC3_LAMP3,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.056195355,TRUE
+epithelial cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.062859636,TRUE
+mesenchymal cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.568669005,TRUE
+stromal cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.57365261,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Down,datasets,24 | 24,io_colorectal_cancer,0.583806157,TRUE
+fibroblast,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,1.22E-06,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,1.22E-06,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,4.28E-06,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,2.07E-05,TRUE
+Macro_INHBA,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,7.23E-05,TRUE
+Macro_C1QC,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.000360818,TRUE
+gamma-delta T cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.004616027,TRUE
+neutrophil,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.011336556,TRUE
+Macro_ISG15,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.015386454,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.036801203,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.080321912,TRUE
+Macro_NLRP3,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.203564581,TRUE
+Tfh-Th1,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.370771606,TRUE
+pDC_LILRA4,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.481000003,TRUE
+natural killer cell,tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.568669005,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE25070,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE25070__GPL6883__tumor_vs_tumor_adjacent,Up,datasets,24 | 24,io_colorectal_cancer,0.578703627,TRUE
+Macro_LYVE1,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,8.53E-06,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,2.64E-05,TRUE
+regulatory T cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,8.13E-05,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,8.99E-05,TRUE
+fat cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.00184652,TRUE
+mast cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.002621462,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.00397255,TRUE
+Tk,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.00635635,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.006909405,TRUE
+Macro_IL1B,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.023483173,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.028318671,TRUE
+Macro_SPP1,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.02848113,TRUE
+macrophage,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.056811846,TRUE
+endothelial cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.098470509,TRUE
+class switched memory B cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.257417977,TRUE
+stromal cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.276491934,TRUE
+mature B cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.296373025,TRUE
+mesenchymal cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.338112435,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.456289545,TRUE
+natural killer cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.467640388,TRUE
+plasma cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.519237116,TRUE
+cDC3_LAMP3,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.571201132,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Down,datasets,31 | 31,io_colorectal_cancer,0.891315133,TRUE
+fibroblast,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,8.53E-06,TRUE
+Macro_INHBA,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,1.61E-05,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,5.75E-05,TRUE
+Macro_C1QC,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.00028768,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.000539335,TRUE
+gamma-delta T cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.000800941,TRUE
+Macro_ISG15,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.002017779,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.032273017,TRUE
+neutrophil,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.045573173,TRUE
+epithelial cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.154208026,TRUE
+Macro_NLRP3,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.182121933,TRUE
+pDC_LILRA4,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.205261234,TRUE
+Tfh-Th1,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.257225939,TRUE
+T-helper 17 cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.257225939,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.467640388,TRUE
+memory B cell,tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.558793261,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.866444802,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE31279,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31279__GPL6104__tumor_vs_tumor_adjacent,Up,datasets,31 | 31,io_colorectal_cancer,0.976886582,TRUE
+Macro_LYVE1,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,1.39E-07,TRUE
+Tk,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,6.73E-07,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,6.73E-07,TRUE
+macrophage,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,1.55E-06,TRUE
+Macro_IL1B,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,2.27E-06,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,6.55E-06,TRUE
+natural killer cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,8.47E-06,TRUE
+plasma cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,2.00E-05,TRUE
+cDC3_LAMP3,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,2.79E-05,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,5.29E-05,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,6.69E-05,TRUE
+mature B cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,7.85E-05,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.000131435,TRUE
+mast cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.000265873,TRUE
+class switched memory B cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.000824545,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.000832902,TRUE
+fat cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.002685124,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.006894258,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.010918913,TRUE
+Tfh-Th1,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.042244551,TRUE
+pDC_LILRA4,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.042244551,TRUE
+regulatory T cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.077490412,TRUE
+memory B cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.09613021,TRUE
+endothelial cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.098831861,TRUE
+Macro_SPP1,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.352672058,TRUE
+T-helper 17 cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.415962243,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.415962243,TRUE
+stromal cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.857887135,TRUE
+neutrophil,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.889734238,TRUE
+mesenchymal cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Down,datasets,40 | 40,io_colorectal_cancer,0.93115225,TRUE
+Macro_INHBA,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,1.39E-07,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,1.89E-07,TRUE
+fibroblast,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,1.43E-05,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,5.29E-05,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.000153031,TRUE
+epithelial cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.006922354,TRUE
+Macro_NLRP3,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.018948184,TRUE
+gamma-delta T cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.124581697,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.22750952,TRUE
+Macro_C1QC,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.32642312,TRUE
+Macro_ISG15,tumor,microarray,GSE31737,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE31737__GPL5175__tumor_vs_tumor_adjacent,Up,datasets,40 | 40,io_colorectal_cancer,0.656545755,TRUE
+Tk,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.05E-16,TRUE
+Macro_LYVE1,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.05E-16,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.05E-16,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.05E-16,TRUE
+cDC3_LAMP3,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.95E-16,TRUE
+Macro_IL1B,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,3.47E-16,TRUE
+regulatory T cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.29E-15,TRUE
+plasma cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.36E-15,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.36E-15,TRUE
+mast cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,2.71E-15,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.70E-14,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,2.05E-14,TRUE
+fat cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,5.61E-14,TRUE
+endothelial cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.51E-13,TRUE
+mature B cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.93E-13,TRUE
+macrophage,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.44E-12,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,2.26E-12,TRUE
+natural killer cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.59E-11,TRUE
+class switched memory B cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.59E-11,TRUE
+T-helper 17 cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,6.85E-11,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.94E-10,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,6.78E-09,TRUE
+pDC_LILRA4,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.62E-07,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,1.14E-06,TRUE
+Macro_SPP1,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,8.05E-06,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,9.55E-06,TRUE
+Macro_ISG15,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,8.45E-05,TRUE
+memory B cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,0.000117497,TRUE
+epithelial cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,0.00012475,TRUE
+mesenchymal cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,0.000603652,TRUE
+stromal cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,0.001668135,TRUE
+Macro_NLRP3,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Down,datasets,97 | 97,io_colorectal_cancer,0.003798918,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,1.05E-16,TRUE
+fibroblast,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,1.48E-16,TRUE
+Macro_INHBA,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,2.32E-16,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,2.25E-10,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,2.88E-06,TRUE
+Macro_C1QC,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,7.48E-05,TRUE
+neutrophil,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,0.061901657,TRUE
+Tfh-Th1,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,0.148663727,TRUE
+gamma-delta T cell,tumor,microarray,GSE44076,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44076__GPL13667__tumor_vs_tumor_adjacent,Up,datasets,97 | 97,io_colorectal_cancer,0.28847225,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,2.00E-07,TRUE
+regulatory T cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,3.28E-07,TRUE
+mature B cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,1.34E-06,TRUE
+class switched memory B cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,1.49E-06,TRUE
+plasma cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,1.54E-06,TRUE
+cDC3_LAMP3,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,2.64E-06,TRUE
+memory B cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,6.50E-05,TRUE
+Macro_LYVE1,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.000848841,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.001126913,TRUE
+mast cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.001126913,TRUE
+epithelial cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.010755647,TRUE
+Tk,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.016388967,TRUE
+Macro_IL1B,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.031977811,TRUE
+natural killer cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.047862057,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.047862057,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.047862057,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.062326172,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.078332937,TRUE
+pDC_LILRA4,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.12387576,TRUE
+Macro_NLRP3,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.367084049,TRUE
+fat cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.511837149,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.687206889,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.70621288,TRUE
+endothelial cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.753485688,TRUE
+Macro_ISG15,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.771869658,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Down,datasets,43 | 43,io_colorectal_cancer,0.797200721,TRUE
+Macro_INHBA,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,2.21E-08,TRUE
+fibroblast,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,2.00E-07,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,1.62E-06,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,2.46E-06,TRUE
+Macro_C1QC,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.000590382,TRUE
+mesenchymal cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.002732333,TRUE
+Tfh-Th1,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.00640339,TRUE
+stromal cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.010465541,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.031977811,TRUE
+T-helper 17 cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.060918733,TRUE
+neutrophil,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.251482361,TRUE
+Macro_SPP1,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.484972484,TRUE
+gamma-delta T cell,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.753485688,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.789952585,TRUE
+macrophage,tumor,microarray,GSE44861,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE44861__GPL3921__tumor_vs_tumor_adjacent,Up,datasets,43 | 43,io_colorectal_cancer,0.797200721,TRUE
+regulatory T cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+mature B cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+Macro_LYVE1,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+class switched memory B cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+cDC3_LAMP3,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+Macro_IL1B,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.006159856,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.006159856,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.006159856,TRUE
+mast cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.013346354,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.013346354,TRUE
+plasma cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.01751709,TRUE
+fat cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.02355239,TRUE
+natural killer cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.028027344,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.028027344,TRUE
+pDC_LILRA4,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.033075747,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.033075747,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.033075747,TRUE
+Macro_NLRP3,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.055053711,TRUE
+epithelial cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.081561053,TRUE
+endothelial cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.081561053,TRUE
+T-helper 17 cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.09866769,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.173962823,TRUE
+macrophage,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.201529948,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.397964015,TRUE
+Macro_ISG15,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.440429688,TRUE
+memory B cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.575696791,TRUE
+Macro_SPP1,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Down,datasets,11 | 11,io_colorectal_cancer,0.98996582,TRUE
+Macro_INHBA,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+Macro_C1QC,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+fibroblast,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.004003906,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.028027344,TRUE
+mesenchymal cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.081561053,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.317729335,TRUE
+neutrophil,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.3565979,TRUE
+stromal cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.529405382,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.529405382,TRUE
+gamma-delta T cell,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.896664268,TRUE
+Tfh-Th1,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,0.98996582,TRUE
+Tk,tumor,microarray,GSE49355,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE49355__GPL96__tumor_vs_tumor_adjacent,Up,datasets,11 | 11,io_colorectal_cancer,1,TRUE
+cDC3_LAMP3,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,1.04E-05,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,1.39E-05,TRUE
+plasma cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,1.82E-05,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,2.08E-05,TRUE
+mature B cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,4.45E-05,TRUE
+Macro_LYVE1,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,8.71E-05,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.000110876,TRUE
+class switched memory B cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.000141366,TRUE
+Macro_IL1B,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.000177653,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.001049853,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.001049853,TRUE
+regulatory T cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.001236213,TRUE
+Tk,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.005746255,TRUE
+T-helper 17 cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.010373215,TRUE
+memory B cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.015993979,TRUE
+mast cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.036466273,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.043244297,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.043244297,TRUE
+pDC_LILRA4,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.051100199,TRUE
+macrophage,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.062528817,TRUE
+endothelial cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.067601965,TRUE
+natural killer cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.091124682,TRUE
+fat cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.223344802,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.405571908,TRUE
+gamma-delta T cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.4085884,TRUE
+epithelial cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.481769281,TRUE
+Macro_ISG15,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Down,datasets,23 | 8,io_colorectal_cancer,0.911982862,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,1.04E-05,TRUE
+fibroblast,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,2.08E-05,TRUE
+Macro_INHBA,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.002789906,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.010373215,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.047029157,TRUE
+Tfh-Th1,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.146602588,TRUE
+Macro_NLRP3,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.27690162,TRUE
+Macro_C1QC,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.363462995,TRUE
+Macro_SPP1,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.4085884,TRUE
+neutrophil,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.609068855,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.609068855,TRUE
+stromal cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.690974391,TRUE
+mesenchymal cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.690974391,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE81558,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE81558__GPL15207__tumor_vs_tumor_adjacent,Up,datasets,23 | 8,io_colorectal_cancer,0.690974391,TRUE
+Macro_LYVE1,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,2.50E-11,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,7.75E-11,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,7.75E-11,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,4.17E-10,TRUE
+Macro_IL1B,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,1.46E-09,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,1.46E-09,TRUE
+plasma cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,1.49E-09,TRUE
+regulatory T cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,2.01E-08,TRUE
+mast cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,3.56E-08,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,5.07E-08,TRUE
+mature B cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,5.65E-08,TRUE
+class switched memory B cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,1.15E-07,TRUE
+Tk,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,9.43E-07,TRUE
+macrophage,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,1.57E-06,TRUE
+memory B cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,5.92E-06,TRUE
+fat cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,8.30E-06,TRUE
+endothelial cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,2.22E-05,TRUE
+cDC3_LAMP3,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,4.24E-05,TRUE
+natural killer cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,6.10E-05,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.012710379,TRUE
+epithelial cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.017151231,TRUE
+T-helper 17 cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.025277514,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.041915578,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.04254023,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.042555404,TRUE
+pDC_LILRA4,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.194931788,TRUE
+mesenchymal cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.450762756,TRUE
+Macro_SPP1,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Down,datasets,68 | 68,io_colorectal_cancer,0.82351379,TRUE
+fibroblast,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,2.50E-11,TRUE
+Macro_INHBA,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,8.00E-11,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,1.46E-09,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,1.46E-09,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,7.53E-08,TRUE
+Macro_C1QC,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,1.49E-06,TRUE
+Macro_NLRP3,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,1.55E-06,TRUE
+Macro_ISG15,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,0.000564694,TRUE
+neutrophil,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,0.025695436,TRUE
+Tfh-Th1,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,0.149211383,TRUE
+gamma-delta T cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,0.187343655,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,0.225751253,TRUE
+stromal cell,tumor,microarray,GSE106582,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE106582__GPL10558__tumor_vs_tumor_adjacent,Up,datasets,68 | 68,io_colorectal_cancer,0.581978669,TRUE
+macrophage,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.010009766,TRUE
+pDC_LILRA4,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+mature B cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+Macro_LYVE1,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+fat cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.025024414,TRUE
+plasma cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.027526855,TRUE
+class switched memory B cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.027526855,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+memory B cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+Macro_IL1B,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+endothelial cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+cDC3_LAMP3,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.028975637,TRUE
+regulatory T cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.033365885,TRUE
+natural killer cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.035234375,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.035234375,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.035234375,TRUE
+Macro_NLRP3,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.041964017,TRUE
+Macro_SPP1,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.072663484,TRUE
+T-helper 17 cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.109773763,TRUE
+epithelial cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.124637727,TRUE
+mast cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.303022905,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.532805525,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.616990831,TRUE
+Tk,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Down,datasets,13 | 13,io_colorectal_cancer,0.719933143,TRUE
+Macro_INHBA,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.021131727,TRUE
+fibroblast,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.033365885,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.035234375,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.099740165,TRUE
+gamma-delta T cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.109773763,TRUE
+mesenchymal cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.303022905,TRUE
+Macro_C1QC,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.409517176,TRUE
+stromal cell,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.704200538,TRUE
+neutrophil,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.719933143,TRUE
+Tfh-Th1,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,0.806536865,TRUE
+Macro_ISG15,tumor,microarray,GSE110223,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110223__GPL96__tumor_vs_tumor_adjacent,Up,datasets,13 | 13,io_colorectal_cancer,1,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.02114563,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.02114563,TRUE
+mature B cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.038966588,TRUE
+regulatory T cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.042541504,TRUE
+class switched memory B cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.042541504,TRUE
+plasma cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.047305767,TRUE
+mast cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.047305767,TRUE
+Macro_LYVE1,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.047305767,TRUE
+Macro_IL1B,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.05103193,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.064327464,TRUE
+macrophage,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.064327464,TRUE
+cDC3_LAMP3,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.07131958,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.077188401,TRUE
+fat cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.127298106,TRUE
+memory B cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.13067749,TRUE
+endothelial cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.13067749,TRUE
+Tk,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.134622079,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.273633895,TRUE
+Macro_SPP1,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.51732111,TRUE
+epithelial cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.750969139,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.750969139,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.750969139,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.843635559,TRUE
+natural killer cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,0.859508417,TRUE
+pDC_LILRA4,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Down,datasets,17 | 17,io_colorectal_cancer,1,TRUE
+Macro_INHBA,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.02114563,TRUE
+fibroblast,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.02114563,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.02114563,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.038057963,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.047305767,TRUE
+Macro_NLRP3,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.064327464,TRUE
+Tfh-Th1,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.065853721,TRUE
+T-helper 17 cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.065853721,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.094182795,TRUE
+Macro_ISG15,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.134622079,TRUE
+gamma-delta T cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.159441267,TRUE
+stromal cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.205610078,TRUE
+neutrophil,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.238149007,TRUE
+mesenchymal cell,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.750969139,TRUE
+Macro_C1QC,tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.750969139,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE110224,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE110224__GPL570__tumor_vs_tumor_adjacent,Up,datasets,17 | 17,io_colorectal_cancer,0.912218094,TRUE
+Macro_LYVE1,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.83E-10,TRUE
+Macro_IL1B,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.83E-10,TRUE
+"CD14-low, CD16-positive monocyte",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.83E-10,TRUE
+plasma cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.67E-09,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.82E-08,TRUE
+mature B cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,1.77E-07,TRUE
+cDC1_CLEC9A,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,2.31E-07,TRUE
+macrophage,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,6.05E-07,TRUE
+cDC3_LAMP3,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,1.75E-06,TRUE
+Tk,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,4.70E-06,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,6.99E-06,TRUE
+T-helper 17 cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.78E-06,TRUE
+mast cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.78E-06,TRUE
+class switched memory B cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,7.78E-06,TRUE
+regulatory T cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,1.65E-05,TRUE
+endothelial cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.000277933,TRUE
+fat cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.000680685,TRUE
+memory B cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.001355748,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.001355748,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.001667433,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.00173642,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.016991975,TRUE
+epithelial cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.627597718,TRUE
+neutrophil,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.67602077,TRUE
+pDC_LILRA4,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.811336626,TRUE
+natural killer cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.897128214,TRUE
+Macro_ISG15,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Down,datasets,61 | 61,io_colorectal_cancer,0.897128214,TRUE
+fibroblast,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,7.83E-10,TRUE
+Macro_INHBA,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,2.45E-09,TRUE
+cancer-associated fibroblast,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,1.93E-07,TRUE
+CD8+ resident-memory T cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,6.05E-07,TRUE
+Macro_NLRP3,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,4.69E-06,TRUE
+"CD4-positive, alpha-beta T cell",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,9.10E-06,TRUE
+Tfh-Th1,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.000307042,TRUE
+gamma-delta T cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.001667433,TRUE
+stromal cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.026899836,TRUE
+mesenchymal cell,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.069483949,TRUE
+"CD8-positive, alpha-beta T cell",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.078070949,TRUE
+Macro_SPP1,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.205110229,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.384977945,TRUE
+Macro_C1QC,tumor,microarray,GSE117606,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE117606__GPL25373__tumor_vs_tumor_adjacent,Up,datasets,61 | 61,io_colorectal_cancer,0.854305728,TRUE
+Macro_LYVE1,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,7.46E-09,TRUE
+endothelial cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,2.04E-08,TRUE
+fat cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,3.69E-08,TRUE
+cDC1_CLEC9A,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,7.97E-08,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,1.04E-07,TRUE
+mast cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,4.32E-07,TRUE
+macrophage,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,1.32E-06,TRUE
+mature B cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,3.70E-06,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,1.43E-05,TRUE
+class switched memory B cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,1.43E-05,TRUE
+Macro_IL1B,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,1.65E-05,TRUE
+Tfh-Th1,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,2.65E-05,TRUE
+stromal cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,7.67E-05,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,8.10E-05,TRUE
+"CD14-low, CD16-positive monocyte",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,9.02E-05,TRUE
+mesenchymal cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.000197165,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.000692358,TRUE
+plasma cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.010018844,TRUE
+T-helper 17 cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.010129832,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.075000354,TRUE
+cancer-associated fibroblast,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.091947548,TRUE
+Tk,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.126522177,TRUE
+cDC3_LAMP3,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.130311299,TRUE
+memory B cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.294887612,TRUE
+pDC_LILRA4,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.322560842,TRUE
+neutrophil,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.367635605,TRUE
+regulatory T cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.457378407,TRUE
+Macro_SPP1,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.579516956,TRUE
+natural killer cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.668566499,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Down,datasets,38 | 38,io_colorectal_cancer,0.839056236,TRUE
+CD8+ resident-memory T cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,1.18E-06,TRUE
+fibroblast,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,1.49E-06,TRUE
+Macro_INHBA,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,3.74E-06,TRUE
+epithelial cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,1.65E-05,TRUE
+gamma-delta T cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,3.86E-05,TRUE
+"CD4-positive, alpha-beta T cell",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,7.87E-05,TRUE
+Macro_ISG15,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,0.001485618,TRUE
+Macro_NLRP3,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,0.002404114,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,0.007048356,TRUE
+Macro_C1QC,tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,0.37352238,TRUE
+"CD8-positive, alpha-beta T cell",tumor,rnaseq,GSE146889,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE146889__GPL16791__tumor_vs_tumor_adjacent,Up,datasets,38 | 38,io_colorectal_cancer,0.931471354,TRUE
+natural killer cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,3.91E-11,TRUE
+cDC3_LAMP3,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,3.91E-11,TRUE
+"CD14-low, CD16-positive monocyte",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,3.91E-11,TRUE
+mature B cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,4.29E-11,TRUE
+"CD8-positive, alpha-beta T cell",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,4.47E-11,TRUE
+Tk,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,8.53E-11,TRUE
+Macro_LYVE1,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.22E-10,TRUE
+T-helper 17 cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.24E-10,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.24E-10,TRUE
+class switched memory B cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.54E-10,TRUE
+plasma cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.90E-09,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.11E-07,TRUE
+cDC1_CLEC9A,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.84E-07,TRUE
+regulatory T cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,4.01E-07,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,4.34E-07,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.15E-06,TRUE
+pDC_LILRA4,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.42E-06,TRUE
+mast cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,4.17E-06,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.10E-05,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,1.26E-05,TRUE
+gamma-delta T cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,3.06E-05,TRUE
+Macro_IL1B,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,9.00E-05,TRUE
+macrophage,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,9.15E-05,TRUE
+fat cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.000162807,TRUE
+Macro_SPP1,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.000581749,TRUE
+memory B cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.011946067,TRUE
+Macro_ISG15,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.064779902,TRUE
+epithelial cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.122626073,TRUE
+neutrophil,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.23452986,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.385867764,TRUE
+stromal cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.808201328,TRUE
+mesenchymal cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Down,datasets,66 | 66,io_colorectal_cancer,0.808201328,TRUE
+fibroblast,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,3.91E-11,TRUE
+Macro_INHBA,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,1.22E-10,TRUE
+cancer-associated fibroblast,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,1.06E-06,TRUE
+"CD4-positive, alpha-beta T cell",tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,1.49E-05,TRUE
+Macro_NLRP3,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,0.001875385,TRUE
+Tfh-Th1,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,0.005798891,TRUE
+CD8+ resident-memory T cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,0.122626073,TRUE
+Macro_C1QC,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,0.385867764,TRUE
+endothelial cell,tumor,rnaseq,GSE156451,tumor_vs_tumor_adjacent,pan_cancer_v1,tumor__GSE156451__GPL24676__tumor_vs_tumor_adjacent,Up,datasets,66 | 66,io_colorectal_cancer,0.486286558,TRUE
+class switched memory B cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,1.40E-24,TRUE
+mast cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,2.56E-24,TRUE
+mature B cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,4.31E-22,TRUE
+Macro_LYVE1,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,2.25E-19,TRUE
+"exhausted CD8-positive, alpha-beta T cell",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,6.99E-18,TRUE
+"CD14-low, CD16-positive monocyte",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,9.91E-16,TRUE
+regulatory T cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,5.75E-15,TRUE
+plasma cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,1.42E-14,TRUE
+"naive thymus-derived CD4-positive, alpha-beta T cell",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,2.20E-14,TRUE
+Macro_IL1B,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,2.59E-14,TRUE
+"effector memory RA CD8-positive, alpha-beta T cell (TEMRA)",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,3.80E-13,TRUE
+"effector memory CD8-positive, alpha-beta T cell",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,3.67E-12,TRUE
+cDC3_LAMP3,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,3.86E-10,TRUE
+macrophage,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,1.68E-09,TRUE
+memory B cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,5.41E-09,TRUE
+"CD14-positive, CD16-negative classical monocyte",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,3.29E-08,TRUE
+Tk,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,5.32E-08,TRUE
+fat cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,1.60E-07,TRUE
+cDC1_CLEC9A,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,4.77E-06,TRUE
+natural killer cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.000245734,TRUE
+endothelial cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.000345198,TRUE
+pDC_LILRA4,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.004769013,TRUE
+"CD8-positive, alpha-beta T cell",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.00555694,TRUE
+T-helper 17 cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.0102841,TRUE
+"CD16-positive, CD56-dim natural killer cell",tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.011725201,TRUE
+Macro_SPP1,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.158405414,TRUE
+epithelial cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.273111764,TRUE
+interferon-stimulated genes CD4-positive T cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Down,meta,|,io_colorectal_cancer,0.715839756,TRUE
+fibroblast,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,7.97E-44,TRUE
+Macro_INHBA,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,1.02E-36,TRUE
+CD8+ resident-memory T cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,5.18E-21,TRUE
+cancer-associated fibroblast,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,2.35E-11,TRUE
+"CD4-positive, alpha-beta T cell",tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,2.91E-10,TRUE
+Macro_C1QC,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,5.57E-05,TRUE
+neutrophil,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.006989558,TRUE
+gamma-delta T cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.029719498,TRUE
+Tfh-Th1,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.03550194,TRUE
+Macro_NLRP3,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.082573837,TRUE
+Macro_ISG15,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.155055682,TRUE
+mesenchymal cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.540655961,TRUE
+stromal cell,tumor,,meta,tumor_vs_tumor_adjacent,,,Up,meta,|,io_colorectal_cancer,0.599305785,TRUE

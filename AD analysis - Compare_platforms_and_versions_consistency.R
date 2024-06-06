@@ -3,7 +3,7 @@ library(reshape2)
 library(dplyr)
 library(stringr)
 library(ggplot2)
-source("~/capsule/code/microarray_transformation_evaluation/variance_functions.R")
+source("~/capsule/code/microarray_transformation_evaluation/Analysis_Functions/variance_functions.R")
 
 # calculate variance in Microarray / RNAseq datasets in CRC models built with CRB/CRS
 # compare version 19 (CRS pan_cancer_v1) and version 34 (CRB + crc_v6 prior)
