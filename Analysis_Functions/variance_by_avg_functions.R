@@ -12,10 +12,13 @@ generate_variance_table_by_avg <- function(cttest_data_table, platform_type) {
     UpDown_df <- as.data.frame(table(temp_cell_table$Estimate.Up.Down[temp_cell_table$significant == 'TRUE']))
     
     sumUp <- 1*(UpDown_df$Freq[UpDown_df$Var1 == 'Up'])
+    if(length(sumUp)==0){sumUp = 0}
     sumDown <- -1*(UpDown_df$Freq[UpDown_df$Var1 == 'Down'])
+    if(length(sumDown)==0){sumDown = 0}
     
     temp_cell_table$directions.ds <- (sumUp+sumDown)/number_of_ds
-    
+    if(sumDown == 0 & sumUp == 0){temp_cell_table$directions.ds <- NA}
+      
     final_cell_table$directions.ds[final_cell_table$Cell_name == cell] <- unique(temp_cell_table["directions.ds"]) 
   }
   return(final_cell_table)
@@ -56,7 +59,7 @@ compare_variance_by_avg_plot <- function(table_a, name_a, table_b, name_b){
   }
   
   title_of_plot = paste0("Variance test: ", name_a," vs ", name_b)
-  filename = paste0("~/capsule/code/microarray_transformation_evaluation/",title_of_plot,".png")
+  filename = paste0("~/capsule/code/microarray_transformation_evaluation/09_06_24/",title_of_plot,".png")
   
   # plot scores = sig.up/total_sig and sig.down/total_sig (up-regulated > 0, down-regulated <0)
   curr_plot <- a %>% ggplot() +
@@ -67,7 +70,7 @@ compare_variance_by_avg_plot <- function(table_a, name_a, table_b, name_b){
           legend.text = element_text(size=10),
           strip.text = element_text(angle = 90)) +
     geom_hline(yintercept = 0) +
-    ylab("sum(Up)-sum(Down)/N_datasets") +
+    ylab("sig_sum(Up)-sig_sum(Down)/N_datasets") +
     labs(title = title_of_plot)
   
   print(curr_plot)
